@@ -1,8 +1,8 @@
 ### Hello! My name is Marichete Santana 😊
 
-- 🛴 I'm in career transition
+- 🛴 I'm in a career transition
 - 🔭 Open to work
-- 🌱 Studying front-end
+- 🌱 Studying front-end development
 - 😄 Pronouns: ela/dela
 
 <div style="display: inline_block"><br>
